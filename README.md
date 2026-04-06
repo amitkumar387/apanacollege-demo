@@ -1,5 +1,5 @@
 # apanacollege-demo
-authaor - amit kumar
+authaor - amit hdbjhoi 
 <br>
 ashu
 
